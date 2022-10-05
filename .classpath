@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="app/src/main/java"/>
+	<classpathentry kind="src" path="app/src/test/java"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="src" path="/SoftwareA1"/>
+	<classpathentry kind="lib" path="C:/Users/35386/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.11.1/175a59c4c86fef3800c40ef37f61425a31976f13/joda-time-2.11.1.jar" sourcepath="C:/Users/35386/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.11.1/7d9f67d2bd505c4d15f2474a1e28669684a86993/joda-time-2.11.1-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
